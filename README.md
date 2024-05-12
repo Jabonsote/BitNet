@@ -324,7 +324,7 @@ Eprint = {arXiv:2310.11453},
 ```
 
 
-# Todo
+# To do
 - [x] Double check BitLinear implementation and make sure it works exactly as in paper 
 - [x] Implement training script for `BitNetTransformer`
 - [x] Train on Enwiki8, copy and past code and data from Lucidrains repos
